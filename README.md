@@ -13,4 +13,4 @@ El proposito de esta aplicación es ofrecer un recetario digital donde se pueden
 **Diseño**: CSS
 
 
-*Proyecto creado con por Irene Carvajal.*
+*Proyecto creado por Irene Carvajal.*
