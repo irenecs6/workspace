@@ -5,7 +5,6 @@ export interface Receta {
   id?: string;
   titulo: string;
   descripcion: string;
-  imagenUrl: string; 
   ingredientes: string[];
   tiempoPreparacion: number;
   dificultad: Dificultad;
