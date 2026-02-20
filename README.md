@@ -6,11 +6,11 @@ El proposito de esta aplicación es ofrecer un recetario digital donde se pueden
 [Cocina con Irene](https://cocina-con-irene.vercel.app/)
 
 ## Tecnologías 
-**Frontend**: React+Vite
-**Lenguaje**: TypeScript
-**Base de datos**: Firebase (Firestore)
-**Despliegue**: Vercel
-**Diseño**: CSS
+- **Frontend**: React+Vite
+- **Lenguaje**: TypeScript
+- **Base de datos**: Firebase (Firestore)
+- **Despliegue**: Vercel
+- **Diseño**: CSS
 
 
 *Proyecto creado por Irene Carvajal.*
